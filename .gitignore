@@ -33,7 +33,6 @@ lab.py
 conda
 
 # Sensitive data
-.env
 api_keys.py
 src/open_llm_vtuber/llm/user_credentials.json
 
@@ -75,7 +74,6 @@ tmp/
 private/
 mcp_servers.json
 
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
 .gitignore
+config.bat
+node_modules
