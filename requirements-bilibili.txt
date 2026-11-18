@@ -1,4 +1,4 @@
-aiohttp==3.9.5
+aiohttp==3.14.4
 anthropic==0.68.1
 azure-cognitiveservices-speech==1.46.0
 brotli==1.1.0
@@ -11,7 +11,7 @@ httpx==0.28.1
 langdetect==1.0.9
 letta-client==0.1.324
 loguru==0.7.3
-mcp==1.15.0
+mcp==1.30.0
 numpy==1.26.4
 onnxruntime==1.23.0
 openai==1.109.1
